@@ -11,6 +11,7 @@ This repository contains **best practices, templates, and guidelines** for manag
 - **Security & Compliance** – Recommendations for secure software development
 - **Release Management** – Documentation on versioning, deployments, and CI/CD strategies
 - **Team Onboarding** – Guides to help new engineers integrate into the team faster
+- **Meeting Templates** – Standardized formats for recurring meetings to improve communication and alignment
 
 ## Repository Structure  
 - **/docs** – Technical and team process documentation
