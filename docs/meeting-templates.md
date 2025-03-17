@@ -48,6 +48,7 @@ For stand-up meetings at the **beginning of a sprint**, key challenges for the s
 - **Channel**: Slack, Google Meet
 - **Audience**: Engineering team
 - **Frequency**: Daily at [Time]
+- **Google Calendar Title**: "[Team Abbreviation] Daily Stand-up"
 
 #### Agenda
 1. What was completed yesterday?
@@ -79,6 +80,7 @@ To discuss personal development, challenges, feedback, and career growth in a st
 - **Channel**: Google Meet
 - **Audience**: Team lead + Individual team member
 - **Frequency**: Monthly
+- **Google Calendar Title**: "1-on-1 - [Employee Initials] & [Manager Initials]"
 
 #### Agenda
 1. **Informal Check-in** – Establish rapport and set a comfortable tone.
@@ -151,6 +153,7 @@ To showcase completed sprint functionality and gather feedback.
 - **Channel**: Zoom
 - **Audience**: Team Members, Product Owner, Stakeholders
 - **Date & Time**: [Date], [Time]
+- **Google Calendar Title**: "[Team Abbreviation] Sprint Demo [Sprint Number]"
 
 #### Agenda
 1. Overview of delivered features
@@ -184,6 +187,7 @@ To analyze the sprint, identify areas of improvement, and enhance teamwork.
 - **Channel**: Zoom
 - **Audience**: Development Team
 - **Date & Time**: [Date], [Time]
+- **Google Calendar Title**: "[Team Abbreviation] Retro [Sprint Number]"
 
 #### Agenda
 1. What went well?
@@ -217,6 +221,7 @@ To introduce and align stakeholders on a new business initiative.
 - **Channel**: Zoom
 - **Audience**: Product Owner, Business Analysts, Stakeholders
 - **Date & Time**: [Date], [Time]
+- **Google Calendar Title**: "[Team Abbreviation] Biz Case - [Project Name]"
 
 #### Agenda
 1. Overview of the business problem
@@ -250,6 +255,7 @@ To share technical knowledge and best practices within the team.
 - **Channel**: Zoom
 - **Audience**: Developers, QA, DevOps
 - **Date & Time**: [Date], [Time]
+- **Google Calendar Title**: "[Team Abbreviation] Workshop - [Topic]"
 
 #### Agenda
 1. Overview of the new technology/method
