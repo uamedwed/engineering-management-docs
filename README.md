@@ -7,6 +7,7 @@ This repository contains **best practices, templates, and guidelines** for manag
 ## What’s Inside
 - **[Meeting Templates](docs/meeting-templates.md)** – Standardized formats for recurring meetings to improve communication and alignment
 - **[Task Templates](docs/task-templates.md)** – Ready-to-use templates for writing clear and consistent engineering tasks and user stories
+- **[Communication Guidelines](docs/communication-guidelines.md)** – Rules and best practices for team messaging, chat/channel structure, and professional communication
 
 ## Repository Structure  
 - **/docs** – Technical and team process documentation
